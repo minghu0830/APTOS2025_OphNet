@@ -12,7 +12,7 @@ In the APTOS2025 phase recognition competition, your goal is to develop a machin
     export HF_ENDPOINT=https://hf-mirror.com  (optional, if you are in mainland China)
     ```
     ```python
-    huggingface-cli download --repo-type dataset --resume-download xioamiyh/OphNet2024 --revision main --local-dir ./
+    huggingface-cli download --repo-type dataset --resume-download xioamiyh/APTOS2025_OphNet-Cat --revision main --local-dir ./
     ```
 
 *  **Merge and Extract the Archive**:
